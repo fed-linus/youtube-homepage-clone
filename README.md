@@ -4,6 +4,8 @@ A simple YouTube homepage clone built with HTML and CSS. This project replicates
 
 You can visit the page live at [YouTube Homepage Clone](https://linus9426.github.io/youtube-homepage-clone/)
 
+---
+
 **Features**
 
 * Fully responsive header with search bar, voice search, upload icon, notifications, and profile picture.
@@ -14,11 +16,15 @@ You can visit the page live at [YouTube Homepage Clone](https://linus9426.github
 
 * Clean separation of CSS files for general styles, header, sidebar, and video content.
 
+---
+
 **Technologies Used**
 
 * HTML5
 
 * CSS3
+
+---
 
 **Notes**
 
@@ -27,6 +33,8 @@ You can visit the page live at [YouTube Homepage Clone](https://linus9426.github
 * All video content and channel images are static placeholders.
 
 * No JavaScript functionality is implemented (purely frontend layout).
+
+---
 
 **License**
 
